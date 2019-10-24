@@ -35,11 +35,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Deep\PycharmProjects\MyProject" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Deep\PycharmProjects\MyProject\templates\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Deep\PycharmProjects\MyProject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -121,7 +121,7 @@
       <updated>1529397719285</updated>
       <workItem from="1571598799244" duration="3131000" />
       <workItem from="1571934084616" duration="3921000" />
-      <workItem from="1571941160839" duration="704000" />
+      <workItem from="1571941160839" duration="1311000" />
     </task>
     <servers />
   </component>
